@@ -22,7 +22,7 @@
 ## Por que usar?
 - O DevTolls do Chrome e do Mozila, embora úteis, não são, das ferramentas disponíveis, as mais produtivas quando precisamos verificar **como está o nosso layout numa variedade grande de telas**.
 - Não é nada produtivo testar layouts tela por tela, tal como fazemos com os DevTools já conhecidos.
-- produtividade: visualizar nosso layout em diversas resoluções, usando menos tempo para isso (O Responsively é o mais ideal para produtividade0
+- produtividade: visualizar nosso layout em diversas resoluções, usando menos tempo para isso (o Responsively ganha no quesito produtividade)
 
 ## Devo abandonar os DevTools?
 - Não. Os DevTools e essas aplicações devem ser usadas conjuntamente.
