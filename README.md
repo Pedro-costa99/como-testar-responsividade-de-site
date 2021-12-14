@@ -1,10 +1,10 @@
 ## Ferramentas que auxiliam na construção de aplicações web responsivas
 
+- ATENÇÃO: para melhor aproveitamento, abra os links em nova aba (Botão direito do mouse > abrir link em nova guia )
 
-
-💻 [Responsively](https://responsively.app/?target=_blank) <br><br>
-💻 [Base64](https://www.base64.com.br/tools/responsivetest/?target=_blank) <br><br>
-💻 [websiteplanet](https://www.websiteplanet.com/pt-br/webtools/responsive-checker/?target=_blank)
+<h4>💻 <a href="https://responsively.app/" target="_blank">Responsively</a> </h4>
+<h4>💻 <a href="https://www.base64.com.br/tools/responsivetest//" target="_blank">Base64</a> </h4>
+<h4>💻 <a href="https://www.websiteplanet.com/pt-br/webtools/responsive-checker/" target="_blank">Websiteplanet</a> </h4>
 
 
 
