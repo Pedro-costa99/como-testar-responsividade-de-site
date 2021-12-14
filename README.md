@@ -1,10 +1,14 @@
 ## Ferramentas que auxiliam na construção de aplicações web responsivas
 
-<h4>💻 <a href="https://www.websiteplanet.com/pt-br/webtools/responsive-checker/" target="_blank" >Websiteplanet responsive</a></h4>
 
-<h4>💻 <a href="https://www.base64.com.br/tools/responsivetest/" target="_blank" >Base64 responsive</a></h4>
 
-<h4>💻 <a href="https://responsively.app/" target="_blank" >Responsively</a></h4>
+💻 [Responsively](https://responsively.app/?target=_blank) <br><br>
+💻 [Base64](https://www.base64.com.br/tools/responsivetest/?target=_blank) <br><br>
+💻 [websiteplanet](https://www.websiteplanet.com/pt-br/webtools/responsive-checker/?target=_blank)
+
+
+
+
 
 ## Antes de tudo, você já conhece Chrome DevTools?
 - além de muitas outras coisas, com o DevTools podemos simular uma janela de visualização e testar a responsividade de nosso layout. É simples: na tela do seu layout, dê um clique no botão direito do mouse e depois em inspecionar. Na aba que se abriu, na parte superior esquerda, clique no seguinte ícone: <img alt="Alternar barra de ferramentas do dispositivo" src="https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format" decoding="async" height="32" loading="lazy" sizes="(min-width: 30px) 30px, calc(100vw - 48px)" srcset="https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=30 30w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=34 34w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=39 39w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=44 44w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=51 51w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=58 58w, https://wd.imgix.net/image/admin/9FiBHFCzfPgP8sy6LMx7.png?auto=format&amp;w=60 60w" width="30">. Pronto. Nesta janela de visualização, você poderá testar seu layout em formatos fixos ou no formato livre (arrastando a janela nas direções horizontal e vertical. Aliás, o "formato livre" é um teste indispensável para evitarmos quebras de layout).
