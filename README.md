@@ -32,7 +32,7 @@
 
 ## É confiável?
 - Os DevTools e essas aplicações oferecem relativa segurança. Precisamos considerar que são simulações aproximadas. Por exemplo, para sabermos com 100% de certeza como nosso layout se comporta na tela do Iphone12, somente com o Iphone 12 em mãos. Mas a falta de certeza faz parte do processo. O teste final sempre é do usuário. Ele é quem vai dizer se nosso layout quebra ou não. Gosto da ideia de que trabalhamos sempre com versões, nunca com sistemas finalizados.
-- Já ajustou o código e o navegador não reflete as mundanças? Cuidado com o cache! CTR + R e CTRL + F5, uma ou duas vezes, geralmente resolvem o problema.
+- Já ajustou o código e o navegador não reflete as mudanças? Cuidado com o cache! CTR + R e CTRL + F5, uma ou duas vezes, geralmente resolvem o problema.
 
 
 
