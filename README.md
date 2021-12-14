@@ -2,9 +2,10 @@
 
 - ATENÇÃO: para melhor aproveitamento, abra os links em nova aba (Botão direito do mouse > abrir link em nova guia )
 
-<h4>💻 <a href="https://responsively.app/" target="_blank">Responsively</a> </h4>
-<h4>💻 <a href="https://www.base64.com.br/tools/responsivetest//" target="_blank">Base64</a> </h4>
-<h4>💻 <a href="https://www.websiteplanet.com/pt-br/webtools/responsive-checker/" target="_blank">Websiteplanet</a> </h4>
+<h4>💻 <a href="https://responsively.app/" target="_blank">Responsively</a> (Para visualizar layouts em várias resoluções de uma só vez, é a melhor aplicação. Necessita instação no Pc. Aceita endereço locahost! )</h4> 
+<h4>💻 <a href="https://www.websiteplanet.com/pt-br/webtools/responsive-checker/" target="_blank">Websiteplanet</a> (Também nos dá um bom panorama do layout em diversos dispositivos. No entanto, não aceita endereço locahost. Faça deploy de sua aplicação, pegue o link e teste!)</h4>
+<h4>💻 <a href="https://www.base64.com.br/tools/responsivetest//" target="_blank">Base64</a> (Não é a app que tem mais recurso, mas é boa também e aceita endereço localhost!)</h4>
+
 
 
 
